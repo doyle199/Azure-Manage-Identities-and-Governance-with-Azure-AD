@@ -64,3 +64,5 @@ MFA should be enabled for all users and is always enabled for self-service passw
 ![alt text](https://github.com/doyle199/Azure-Manage-Identities-and-Governance-with-Azure-AD/blob/master/17.png)
 
 ![alt text](https://github.com/doyle199/Azure-Manage-Identities-and-Governance-with-Azure-AD/blob/master/18.png)
+
+TO BE CONTINUED
