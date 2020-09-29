@@ -65,4 +65,42 @@ MFA should be enabled for all users and is always enabled for self-service passw
 
 ![alt text](https://github.com/doyle199/Azure-Manage-Identities-and-Governance-with-Azure-AD/blob/master/18.png)
 
+To collaborate by using guest accounts and Azure AD B2B. Select users and then new guest user.  Click on users then new guest user. Leave invite user selected. Enter the guest users email address and give the user a name and correct access. Click invite. 
+
+![alt text](https://github.com/doyle199/Azure-Manage-Identities-and-Governance-with-Azure-AD/blob/master/19.png)
+
+![alt text](https://github.com/doyle199/Azure-Manage-Identities-and-Governance-with-Azure-AD/blob/master/20.png)
+
+An email will be sent to the guests email that they must accept.
+
+![alt text](https://github.com/doyle199/Azure-Manage-Identities-and-Governance-with-Azure-AD/blob/master/21.png)
+
+The guest will have to create a Microsoft account if they don’t already have one and then accept the permissions from your organization.
+
+![alt text](https://github.com/doyle199/Azure-Manage-Identities-and-Governance-with-Azure-AD/blob/master/22.png)
+
+To add a guest user to an application, select Enterprise applications and then all applications. Click new application.
+
+![alt text](https://github.com/doyle199/Azure-Manage-Identities-and-Governance-with-Azure-AD/blob/master/23.png)
+
+Add an application if one doesn’t have any yet.
+
+![alt text](https://github.com/doyle199/Azure-Manage-Identities-and-Governance-with-Azure-AD/blob/master/24.png)
+
+Select users and groups in the left menu and then click add user. 
+
+![alt text](https://github.com/doyle199/Azure-Manage-Identities-and-Governance-with-Azure-AD/blob/master/25.png)
+
+Select users and groups and choose the guest user. Click select and then assign.
+
+![alt text](https://github.com/doyle199/Azure-Manage-Identities-and-Governance-with-Azure-AD/blob/master/26.png)
+
+You can further assign roles, groups, administrative assignments, licenses, devices, azure role assignments, and authentication methods to the guest user to make sure that least privileged access is enforced.
+
+![alt text](https://github.com/doyle199/Azure-Manage-Identities-and-Governance-with-Azure-AD/blob/master/27.png)
+
+Now when that guest user signs into azure that app will be available to them.
+
+![alt text](https://github.com/doyle199/Azure-Manage-Identities-and-Governance-with-Azure-AD/blob/master/28.png)
+
 TO BE CONTINUED
